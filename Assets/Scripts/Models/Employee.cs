@@ -1,0 +1,39 @@
+[System.Serializable]
+public class Employee
+{
+    public string id;
+    public string name;
+    public string phoneNumber;
+    public string identityNumber;
+    public string employeeType;
+    public string position;
+    public string educationLevel;
+    public string specialty;
+    public string gender;
+    public int? age;
+    public string certificateType;
+    public int? yearsOfWork;
+    public string certificateName;
+    public string certificateNumber;
+    public string certificateAcquisitionDate;
+    public string certificateExpiryDate;
+    public string createBy;
+    public string createTime;
+    public string updateBy;
+    public string updateTime;
+    public string professionalCertificateId;
+    public string technicalTitleCertificateId;
+    public string avatarId;
+    public string sysOrgCode;
+    public string deptOrgCode;
+    public string responsiblePosition;
+    public string isSafetyContact;
+    public string preSigned;
+    public string certificateStatus;
+    public string job;
+    public string leadershipLevel;
+    public string positionName;
+    public string employeeTypeName;
+    public string educationLevelName;
+    public string genderName;
+}
